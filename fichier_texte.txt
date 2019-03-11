@@ -1,0 +1,2 @@
+Ceci est un fichier texte qui est le premier fichier demandé dans mon activité de création de repository
+il fait partie des deux fichiers à créer en plus du README
